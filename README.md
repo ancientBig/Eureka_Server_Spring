@@ -10,3 +10,8 @@ the application will be deplopyed to the Heroku website.
 - git add .
 - git commit -m"message"
 - git push origin
+
+#Eureka Server
+| Server | url |
+| ------ | ------ |
+| Eureka Server | [https://euserver-main.herokuapp.com/] |
