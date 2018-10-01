@@ -1,5 +1,5 @@
 # Eureka_Server_Spring
 the spring application eureka server. Client should register
 
-#deployment
+# deployment
 the application will be deplopyed to the Heroku website.
