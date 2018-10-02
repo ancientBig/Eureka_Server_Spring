@@ -1,8 +1,8 @@
 # Eureka_Server_Spring
-the spring application eureka server. Client should register
+The spring application eureka server. Client should register
 
 # deployment
-the application will be deplopyed to the Heroku website.
+the application will be deployed to the Heroku website.
 
 ### git setup project
 - git init
